@@ -10,3 +10,4 @@ something
 ```
 
 feature1
+feature2
