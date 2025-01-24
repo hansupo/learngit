@@ -12,4 +12,8 @@ something
 feature1
 main2
 feature2
+<<<<<<< HEAD
 main3
+=======
+feature3
+>>>>>>> db40287 (Add feature3 line)
