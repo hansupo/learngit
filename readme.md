@@ -8,12 +8,10 @@ This is my first git repository.
 ```
 something
 ```
+## lol
 
-feature1
-main2
-feature2
-<<<<<<< HEAD
-main3
-=======
-feature3
->>>>>>> db40287 (Add feature3 line)
+-feature1
+-main2
+-feature2
+-main3
+-feature3
