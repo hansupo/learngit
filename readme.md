@@ -20,3 +20,4 @@ something
 -bugfix
 -feature4
 -feature5
+-feature6
