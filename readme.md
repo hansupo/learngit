@@ -22,3 +22,4 @@ something
 -feature5
 -feature6
 -feature7
+-ssh
